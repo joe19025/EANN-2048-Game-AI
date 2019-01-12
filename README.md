@@ -6,4 +6,4 @@ For my school research project. Discovering the  impact of Evolution rules and N
 
 # Game Description
 Based on the orginal 2048, but I made some changes. I expanded the game from a 4 times 4 field into a n times m field.
-and the probablities of 2 and for can be modified.
+and the probablities of 2 and 4 can be modified.
